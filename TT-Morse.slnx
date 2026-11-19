@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TT-Morse.vcxproj" Id="b29075f1-ef61-484f-bc30-f770f5d71185" />
+</Solution>

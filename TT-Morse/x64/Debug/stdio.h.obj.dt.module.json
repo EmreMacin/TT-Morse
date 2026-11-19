@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "TT-Morse\\x64\\Debug\\stdio.obj",
+            "outputs": [
+                "TT-Morse\\x64\\Debug\\stdio.h.obj.dt.module.json",
+                "TT-Morse\\x64\\Debug\\stdio.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
