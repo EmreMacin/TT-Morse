@@ -1,5 +1,9 @@
 # TT-Morse
-A program that turns text to audible morse code and vice versa.
+A Windows exclusive program that turns text to audible morse code and vice versa.
 
 The option to turn morse code into text is not available as of now.It will be added in future updates.
 The code is very beginner friendly, anyone who knows C can read it!
+
+You can install the .exe file at x64/Debug folder.
+
+
